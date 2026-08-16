@@ -12,3 +12,4 @@ pytest -v --alluredir=allure-results
 allure serve allure-results
 Сохранить статический HTML-отчёт:
 allure generate allure-results -o allure-report --clean
+
